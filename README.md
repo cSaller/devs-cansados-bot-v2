@@ -5,5 +5,6 @@ Esse projeto tem como objetivo criar um bot de moderação para um servidor do d
 # Stack
 
 - NodeJS v17
+- Prisma ORM
 - DiscordJS v13
 - Docker
